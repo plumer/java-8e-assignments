@@ -1,0 +1,8 @@
+Once a string is created, its contents cannot be changed. The methods toLowerCase,
+toUpperCase, trim, replace , replaceFirst, and replaceAll return a new string
+derived from the original string (without changing the original string!). The toLowerCase
+and toUpperCase methods return a new string by converting all the characters in the string
+to lowercase or uppercase. The trim method returns a new string by eliminating blank char-
+acters from both ends of the string. Several versions of the replace methods are provided to
+replace a character or a substring in the string with a new character or a new substring.
+
